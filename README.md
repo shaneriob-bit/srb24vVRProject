@@ -23,3 +23,7 @@ https://polyhaven.com/a/food_ginger_01
 https://polyhaven.com/a/russian_food_cans_01
 https://polyhaven.com/a/yellow_onion
 https://polyhaven.com/a/lemon
+https://polyhaven.com/a/rollershutter_window_01
+https://polyhaven.com/a/SchoolDesk_01
+https://polyhaven.com/a/covered_car
+https://polyhaven.com/a/multi_cleaner_5_litre
