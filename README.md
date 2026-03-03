@@ -27,3 +27,6 @@ https://polyhaven.com/a/rollershutter_window_01
 https://polyhaven.com/a/SchoolDesk_01
 https://polyhaven.com/a/covered_car
 https://polyhaven.com/a/multi_cleaner_5_litre
+https://polyhaven.com/a/hanging_industrial_lamp
+https://polyhaven.com/a/Barrel_02
+https://polyhaven.com/a/painted_wooden_nightstand

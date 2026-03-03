@@ -3896,6 +3896,75 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1893508925}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1001 &2099161110
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.24838671
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.245373
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2545204362947080810, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -1132214184538111989, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_Name
+      value: painted_wooden_nightstand_2k
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8235c0e0d75b4e24486b076618e33159, type: 3}
 --- !u!1 &2107816830 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 02e91c8b20acd564181b97cf2bdb7f5a, type: 3}
@@ -4930,3 +4999,4 @@ SceneRoots:
   - {fileID: 833216913}
   - {fileID: 2135429535}
   - {fileID: 2021155436}
+  - {fileID: 2099161110}
