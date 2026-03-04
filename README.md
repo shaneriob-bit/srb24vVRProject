@@ -30,3 +30,10 @@ https://polyhaven.com/a/multi_cleaner_5_litre
 https://polyhaven.com/a/hanging_industrial_lamp
 https://polyhaven.com/a/Barrel_02
 https://polyhaven.com/a/painted_wooden_nightstand
+https://polyhaven.com/a/metal_tool_chest
+https://polyhaven.com/a/steel_frame_shelves_01
+https://polyhaven.com/a/security_camera_02
+https://polyhaven.com/a/small_oil_can_01
+https://polyhaven.com/a/handsaw_wood
+https://polyhaven.com/a/rusted_wheel_rim_02
+https://polyhaven.com/a/rusted_wheel_rim_01
