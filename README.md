@@ -12,14 +12,6 @@ https://polyhaven.com/a/multi_cleaner_bottle
 https://polyhaven.com/a/bleach_bottle
 https://polyhaven.com/a/lubricant_spray
 https://polyhaven.com/a/leather_cleaner_can
-https://polyhaven.com/a/food_lime_01
-https://polyhaven.com/a/food_kiwi_01
-https://polyhaven.com/a/food_apple_01
-https://polyhaven.com/a/food_pomegranate_01
-https://polyhaven.com/a/food_avocado_01
-https://polyhaven.com/a/food_lychee_01
-https://polyhaven.com/a/food_kiwi_01
-https://polyhaven.com/a/food_ginger_01
 https://polyhaven.com/a/russian_food_cans_01
 https://polyhaven.com/a/yellow_onion
 https://polyhaven.com/a/lemon
@@ -37,3 +29,4 @@ https://polyhaven.com/a/small_oil_can_01
 https://polyhaven.com/a/handsaw_wood
 https://polyhaven.com/a/rusted_wheel_rim_02
 https://polyhaven.com/a/rusted_wheel_rim_01
+https://sketchfab.com/3d-models/1987-mazda-rx-7-fc-505ca770a7c248b3bb3062aabc863c90#download
